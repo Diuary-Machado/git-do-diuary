@@ -5,7 +5,7 @@
 body{
     margin: 0 ;
     padding: 0 ;
-    font-family: inter;
+    font-family: 'inter';
     background-color:#116CFF;
     
 }
@@ -542,9 +542,212 @@ p {
 .tela-5{
 
     background: #116CFF;
+    
+}
+
+.our-clas{
+    color: #FFFFFF;
+    margin-left: 100px;
+    position: relative;
+    width: 172px;
+    height: 50px;
+    margin-top: 60px;
+    margin-bottom:52px;
+
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 50px
+}
+
+
+table , tr {
+    
+    border-collapse: collapse;
+}
+
+
+table{
+
+    margin-left: 100px;
+    position:relative;
+    width: 80%;
+    background: #FFFFFF;
+    border-collapse: collapse;
+    
+}
+
+td{
+    padding-left: 20px;
+    
+    
 
 }
 
+tr{
+    height:50px;
+    
+}
+
+
+
+.Beginner-Class{
+    color: #00235C;
+    
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    background: #FFFFFFCC;
+    
+    
+}
+
+.Month1{
+    color: #00235C;
+    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+   
+}
+
+.Meet{
+    color: #00235C;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+}
+
+.balaoazul{
+    position: relative;
+    background-color: #FF463A;
+    width:100px;
+    
+}
+
+.Detail{
+    
+    width: 115px;
+   
+    left: 10px;
+    top: 13px;
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+
+    color: #116CFF;;
+    
+    
+   
+    
+   
+}
+
+.Star-red1{
+    color: #FF463A;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.Kids-Class{
+    color: #00235C;
+}
+
+.Meeting{
+    color: #00235C;
+}
+
+.Intermediate-Class{
+    color:#116CFF;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+
+}
+
+.Star-red2{
+    color: #FF463A;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.Month2{
+    color: #00235C;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.Expert-Class-for{
+    color:#116CFF;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+
+}
+
+.Star-red3{
+    color: #FF463A;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;    
+}
+
+.Month3{
+    color: #00235C;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+
+.Free-Trial-Class{
+    color:#116CFF;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.Star-red4{
+    color: #FF463A;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+
+.Free{
+    color: #FF463A;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+
+}
+
+.Check-All-Class{
+    color:#116CFF;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+
+}
 
 
 /* //tela seis// */
@@ -623,21 +826,21 @@ p {
 }
 
 .parents{
-position: relative;
-width: 117px;
-height: 25px;
-left: 410px;
-top: -100px;
+    position: relative;
+    width: 117px;
+    height: 25px;
+    left: 410px;
+    top: -100px;
 
 
-font-style: normal;
-font-weight: 600;
-font-size: 16px;
-line-height: 25px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 25px;
 
 
-text-align: center;
-color: #00235C;
+    text-align: center;
+    color: #00235C;
 
 }
 
@@ -655,22 +858,22 @@ color: #00235C;
 }
 
 .kids-name{
-position: relative;
-width: 92px;
-height: 25px;
-left: 410px;
-top: -70px;
+    position: relative;
+    width: 92px;
+    height: 25px;
+    left: 410px;
+    top: -70px;
 
 
-font-style: normal;
-font-weight: 600;
-font-size: 16px;
-line-height: 25px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 25px;
 
 
-text-align: center;
+    text-align: center;
 
-color: #00235C;
+    color: #00235C;
 
 }
 
@@ -764,11 +967,11 @@ color: #00235C;
 }
 
 .ac{
-position: relative;
-width: 80px;
-height: 80px;
-left: 1100px;
-top: -330px;
+    position: relative;
+    width: 80px;
+    height: 80px;
+    left: 1100px;
+    top: -330px;
 
 }
 
@@ -840,22 +1043,22 @@ h5{
 .w2972{
     
 
-width: 377px;
-height: 18px;
+    width: 377px;
+    height: 18px;
 
 
 
-font-family: 'Inter';
-font-style: normal;
-font-weight: 600;
-font-size: 16px;
-line-height: 18px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 18px;
 
 
-letter-spacing: 0.02em;
+    letter-spacing: 0.02em;
 
-margin-top:-148px;
-margin-left: 100px;
+    margin-top:-148px;
+    margin-left: 100px;
 
 
 }
@@ -888,6 +1091,7 @@ margin-left: 100px;
     height: 37px;
     left: 100px;
     top: 70px;
+    border: 1px solid white;
 }
 
 .b0{
